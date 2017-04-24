@@ -1,0 +1,91 @@
+#body {
+    background-image: url("/resources/CSS/mount.jpg");background-size: cover;
+}
+
+#input_fields{
+    background-color: cadetblue;
+    align-content: center;
+    padding-top: 10px;
+    border: groove 10px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+#h1cent{
+    text-align: center;
+}
+
+#h1 {
+    background-color: bisque;
+    text-align: center;
+    text-align: center;
+}
+
+#h2 {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.sonka {
+    padding-top: 20px;
+    background-color: saddlebrown;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+#sonkisz{
+    background-image: url("/resources/CSS/mount.jpg");background-size: cover;
+    padding-top: 70px;
+}
+
+
+#navbar_what {
+    background-color: darkgrey;
+}
+
+.stories {
+    border:1px solid black;
+}
+
+table, th, td {
+    background-color:rgba(80,80,80,0.4);
+    text-align: center;
+    border: 1px solid black;
+    color: black;
+}
+
+th {
+    border: 1px solid black;
+}
+
+#selector{
+    padding-left: 15px;
+    padding-top: 25px;
+    width: 625px;
+}
+
+#padselector{
+    padding-top: 20px;
+}
+
+#title,#criteria,#value,#estimation,#story,#status{
+    width:350px;
+}
+
+#story{
+    height:35px;
+    col:30px;
+}
+
+.glyphicon glyphicon-trash {
+    size:30px;
+}
+
+#input_name{
+    align-content: center;
+    padding-top: 10px;
+    border: black solid;
+    width: 70px;
+    margin: 0 auto;
+}

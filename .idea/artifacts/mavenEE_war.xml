@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mavenEE:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mavenEE-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mavenEE:war exploded" />
+    </root>
+  </artifact>
+</component>
